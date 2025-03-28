@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: b3f962933d7e14c05acf440aa690e059
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4229680571361293478
+    second: mattdalley_0
+  - first:
+      213: 2232251191458096565
+    second: mattdalley_1
+  - first:
+      213: -6336409888827566308
+    second: mattdalley_2
+  - first:
+      213: 8471660619790540945
+    second: mattdalley_3
+  - first:
+      213: 5033614085917109333
+    second: mattdalley_4
+  - first:
+      213: -1452615975970078244
+    second: mattdalley_5
+  - first:
+      213: 6611743251229039515
+    second: mattdalley_6
+  - first:
+      213: -3606120410390972876
+    second: mattdalley_7
+  - first:
+      213: 5752971660854018605
+    second: mattdalley_8
+  - first:
+      213: -7551080078184628094
+    second: mattdalley_9
+  - first:
+      213: -5829961419635889423
+    second: mattdalley_10
+  - first:
+      213: -1674534261731331422
+    second: mattdalley_11
+  - first:
+      213: -493070888048260690
+    second: mattdalley_12
+  - first:
+      213: -3959080190305211124
+    second: mattdalley_13
+  - first:
+      213: -1003557259261703597
+    second: mattdalley_14
+  - first:
+      213: 8645289382853825942
+    second: mattdalley_15
+  - first:
+      213: 305450008717508975
+    second: mattdalley_16
+  - first:
+      213: -8039785950620613481
+    second: mattdalley_17
+  - first:
+      213: -1803921213738722192
+    second: mattdalley_18
+  - first:
+      213: -7157850891712224080
+    second: mattdalley_19
+  - first:
+      213: 3742307906390314574
+    second: mattdalley_20
+  - first:
+      213: -7959836438148718202
+    second: mattdalley_21
+  - first:
+      213: 6295012126228880103
+    second: mattdalley_22
+  - first:
+      213: 2633693144989213799
+    second: mattdalley_23
+  - first:
+      213: -3868191101716956741
+    second: mattdalley_24
+  - first:
+      213: -1415723516839343688
+    second: mattdalley_25
+  - first:
+      213: 3265432296967128082
+    second: mattdalley_26
+  - first:
+      213: 7881276452369867717
+    second: mattdalley_27
+  - first:
+      213: 6140115464385706286
+    second: mattdalley_28
+  - first:
+      213: -161499102535522995
+    second: mattdalley_29
+  - first:
+      213: 8982309113696885418
+    second: mattdalley_30
+  - first:
+      213: 165308709456690533
+    second: mattdalley_31
+  - first:
+      213: 8046926108128823161
+    second: mattdalley_32
+  - first:
+      213: -2011103129305658625
+    second: mattdalley_33
+  - first:
+      213: -5162156201638489225
+    second: mattdalley_34
+  - first:
+      213: 4715128105890101099
+    second: mattdalley_35
+  - first:
+      213: -1068424462243839087
+    second: mattdalley_36
+  - first:
+      213: -657128559659950036
+    second: mattdalley_37
+  - first:
+      213: -3286632094192807917
+    second: mattdalley_38
+  - first:
+      213: 444886416065078574
+    second: mattdalley_39
+  - first:
+      213: -2821882178907419759
+    second: mattdalley_40
+  - first:
+      213: -1491038345422654437
+    second: mattdalley_41
+  - first:
+      213: -5484761356983990847
+    second: mattdalley_42
+  - first:
+      213: 510860243284216796
+    second: mattdalley_43
+  - first:
+      213: 9161778249120707406
+    second: mattdalley_44
+  - first:
+      213: -1345144300462357852
+    second: mattdalley_45
+  - first:
+      213: -12207676878560448
+    second: mattdalley_46
+  - first:
+      213: -7203411832583653922
+    second: mattdalley_47
+  - first:
+      213: 4444220955955207553
+    second: mattdalley_48
+  - first:
+      213: -8878878510117669861
+    second: mattdalley_49
+  - first:
+      213: -4127161586757830528
+    second: mattdalley_50
+  - first:
+      213: 8644768455131218890
+    second: mattdalley_51
+  - first:
+      213: 944925675154560010
+    second: mattdalley_52
+  - first:
+      213: -6474029824095857088
+    second: mattdalley_53
+  - first:
+      213: -6799692537512714154
+    second: mattdalley_54
+  - first:
+      213: 5187656731573184695
+    second: mattdalley_55
+  - first:
+      213: -717794101693073631
+    second: mattdalley_56
+  - first:
+      213: -8139303063486439278
+    second: mattdalley_57
+  - first:
+      213: -704474252595950222
+    second: mattdalley_58
+  - first:
+      213: -4194537430593258011
+    second: mattdalley_59
+  - first:
+      213: -464055841431758054
+    second: mattdalley_60
+  - first:
+      213: -6058555544157097073
+    second: mattdalley_61
+  - first:
+      213: 9039670476910618246
+    second: mattdalley_62
+  - first:
+      213: -2145321785312606693
+    second: mattdalley_63
+  - first:
+      213: -1104543992553018185
+    second: mattdalley_64
+  - first:
+      213: -879077741577254222
+    second: mattdalley_65
+  - first:
+      213: -7889523246230156150
+    second: mattdalley_66
+  - first:
+      213: -8941576059913085241
+    second: mattdalley_67
+  - first:
+      213: -8416560413964616208
+    second: mattdalley_68
+  - first:
+      213: -2731887930955107441
+    second: mattdalley_69
+  - first:
+      213: -6630796610648528880
+    second: mattdalley_70
+  - first:
+      213: 6210773451664687784
+    second: mattdalley_71
+  - first:
+      213: -5106191924221460780
+    second: mattdalley_72
+  - first:
+      213: 9161870949438938842
+    second: mattdalley_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mattdalley_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 479
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a47c51e118d2ba30800000000000000
+      internalID: 4229680571361293478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 479
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b56d44b1ac8afe10800000000000000
+      internalID: 2232251191458096565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 479
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17192127cc8018a0800000000000000
+      internalID: -6336409888827566308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 474
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190e74ce272619570800000000000000
+      internalID: 8471660619790540945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 489
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ced77875dfad540800000000000000
+      internalID: 5033614085917109333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 463
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd10f35577547dbe0800000000000000
+      internalID: -1452615975970078244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 481
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bd79bd471a1cb50800000000000000
+      internalID: 6611743251229039515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 484
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4363c51c79c74fdc0800000000000000
+      internalID: -3606120410390972876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 471
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22c718be39a6df40800000000000000
+      internalID: 5752971660854018605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 458
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280c64d1dac253790800000000000000
+      internalID: -7551080078184628094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 442
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faee503af0d71fa0800000000000000
+      internalID: -5829961419635889423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 475
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2784506fbd2c8e0800000000000000
+      internalID: -1674534261731331422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 472
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea90cc4c3a24829f0800000000000000
+      internalID: -493070888048260690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 473
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d62930b858e09c0800000000000000
+      internalID: -3959080190305211124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 457
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a01f16df5a212f0800000000000000
+      internalID: -1003557259261703597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_15
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 457
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695557593ec3af770800000000000000
+      internalID: 8645289382853825942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_16
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 457
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f614f322a2d2d3400800000000000000
+      internalID: 305450008717508975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 442
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79405174641fc6090800000000000000
+      internalID: -8039785950620613481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 447
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cdf44b63f27f6e0800000000000000
+      internalID: -1803921213738722192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 442
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4a744b9843aac90800000000000000
+      internalID: -7157850891712224080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 431
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ec78896395fe330800000000000000
+      internalID: 3742307906390314574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 418
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6816fe9beeaf88190800000000000000
+      internalID: -7959836438148718202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 431
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea16a82d206c5750800000000000000
+      internalID: 6295012126228880103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 451
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764a67226f1cc8420800000000000000
+      internalID: 2633693144989213799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 447
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb975d200bc615ac0800000000000000
+      internalID: -3868191101716956741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_25
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 435
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9cf9656f65a5ce0800000000000000
+      internalID: -1415723516839343688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_26
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 436
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21440d28f55215d20800000000000000
+      internalID: 3265432296967128082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_27
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 449
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c328283d2bef5d60800000000000000
+      internalID: 7881276452369867717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_28
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 451
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29b79eab72163550800000000000000
+      internalID: 6140115464385706286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 416
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4563d10c6d32cdf0800000000000000
+      internalID: -161499102535522995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 422
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa18a07c8297ac70800000000000000
+      internalID: 8982309113696885418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_31
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 436
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56db179356b4b4200800000000000000
+      internalID: 165308709456690533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_32
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 434
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977c5d039ac6caf60800000000000000
+      internalID: 8046926108128823161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 433
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa4f03fb502714e0800000000000000
+      internalID: -2011103129305658625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_34
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 431
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773124ee8465c58b0800000000000000
+      internalID: -5162156201638489225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 400
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b673a0ec7008f6140800000000000000
+      internalID: 4715128105890101099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 400
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1934e92cc913c21f0800000000000000
+      internalID: -1068424462243839087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_37
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 417
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2064bd7e0961e6f0800000000000000
+      internalID: -657128559659950036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_38
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 391
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3105d3e06898362d0800000000000000
+      internalID: -3286632094192807917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 416
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25a4fa96dd8c2600800000000000000
+      internalID: 444886416065078574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 417
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bc738fb19a6d8d0800000000000000
+      internalID: -2821882178907419759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 417
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14b8925684ce4be0800000000000000
+      internalID: -1491038345422654437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_42
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 420
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c50e27fa9632e3b0800000000000000
+      internalID: -5484761356983990847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_43
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 418
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb43d24fa0f61700800000000000000
+      internalID: 510860243284216796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_44
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 416
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e437db1c6cc252f70800000000000000
+      internalID: 9161778249120707406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_45
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 395
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2cc47b266155de0800000000000000
+      internalID: -1345144300462357852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_46
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 415
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043ee1cbe21a4dff0800000000000000
+      internalID: -12207676878560448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_47
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 383
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed571048a17580c90800000000000000
+      internalID: -7203411832583653922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_48
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 393
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d9e07b96b0dad30800000000000000
+      internalID: 4444220955955207553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 383
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1436909903e7c480800000000000000
+      internalID: -8878878510117669861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_50
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 387
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08879aa476069b6c0800000000000000
+      internalID: -4127161586757830528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 375
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac34995ab1368f770800000000000000
+      internalID: 8644768455131218890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_52
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 383
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04dbb625ec0d1d00800000000000000
+      internalID: 944925675154560010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0465b750d20a726a0800000000000000
+      internalID: -6474029824095857088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 352
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6502ea7d9a3a2a1a0800000000000000
+      internalID: -6799692537512714154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_55
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 345
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8651edf424ef740800000000000000
+      internalID: 5187656731573184695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_56
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 344
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127b6ba4112e906f0800000000000000
+      internalID: -717794101693073631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 344
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29064a5dcf26b0f80800000000000000
+      internalID: -8139303063486439278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 337
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d0c9456643936f0800000000000000
+      internalID: -704474252595950222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 342
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edb8643e620ac5c0800000000000000
+      internalID: -4194537430593258011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_60
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 342
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bd38fbba75f89f0800000000000000
+      internalID: -464055841431758054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_61
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 335
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83fa8a05dfabeba0800000000000000
+      internalID: -6058555544157097073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_62
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 351
+        width: 82
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686e7de876c537d70800000000000000
+      internalID: 9039670476910618246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_63
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 320
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b160981e3394a32e0800000000000000
+      internalID: -2145321785312606693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_64
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 319
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bce515471fdba0f0800000000000000
+      internalID: -1104543992553018185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 306
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bac55b9373ecc3f0800000000000000
+      internalID: -879077741577254222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_66
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 303
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cc3457868c28290800000000000000
+      internalID: -7889523246230156150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_67
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce5eb0b2f329e380800000000000000
+      internalID: -8941576059913085241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_68
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 288
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd360775ee523b80800000000000000
+      internalID: -8416560413964616208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 293
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f837e35a662661ad0800000000000000
+      internalID: -2731887930955107441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_70
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 294
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0182e643d9daaf3a0800000000000000
+      internalID: -6630796610648528880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 271
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a286e65c89113650800000000000000
+      internalID: 6210773451664687784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_72
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 223
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4debfc9af792329b0800000000000000
+      internalID: -5106191924221460780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mattdalley_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade574b3611852f70800000000000000
+      internalID: 9161870949438938842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mattdalley_0: 4229680571361293478
+      mattdalley_1: 2232251191458096565
+      mattdalley_10: -5829961419635889423
+      mattdalley_11: -1674534261731331422
+      mattdalley_12: -493070888048260690
+      mattdalley_13: -3959080190305211124
+      mattdalley_14: -1003557259261703597
+      mattdalley_15: 8645289382853825942
+      mattdalley_16: 305450008717508975
+      mattdalley_17: -8039785950620613481
+      mattdalley_18: -1803921213738722192
+      mattdalley_19: -7157850891712224080
+      mattdalley_2: -6336409888827566308
+      mattdalley_20: 3742307906390314574
+      mattdalley_21: -7959836438148718202
+      mattdalley_22: 6295012126228880103
+      mattdalley_23: 2633693144989213799
+      mattdalley_24: -3868191101716956741
+      mattdalley_25: -1415723516839343688
+      mattdalley_26: 3265432296967128082
+      mattdalley_27: 7881276452369867717
+      mattdalley_28: 6140115464385706286
+      mattdalley_29: -161499102535522995
+      mattdalley_3: 8471660619790540945
+      mattdalley_30: 8982309113696885418
+      mattdalley_31: 165308709456690533
+      mattdalley_32: 8046926108128823161
+      mattdalley_33: -2011103129305658625
+      mattdalley_34: -5162156201638489225
+      mattdalley_35: 4715128105890101099
+      mattdalley_36: -1068424462243839087
+      mattdalley_37: -657128559659950036
+      mattdalley_38: -3286632094192807917
+      mattdalley_39: 444886416065078574
+      mattdalley_4: 5033614085917109333
+      mattdalley_40: -2821882178907419759
+      mattdalley_41: -1491038345422654437
+      mattdalley_42: -5484761356983990847
+      mattdalley_43: 510860243284216796
+      mattdalley_44: 9161778249120707406
+      mattdalley_45: -1345144300462357852
+      mattdalley_46: -12207676878560448
+      mattdalley_47: -7203411832583653922
+      mattdalley_48: 4444220955955207553
+      mattdalley_49: -8878878510117669861
+      mattdalley_5: -1452615975970078244
+      mattdalley_50: -4127161586757830528
+      mattdalley_51: 8644768455131218890
+      mattdalley_52: 944925675154560010
+      mattdalley_53: -6474029824095857088
+      mattdalley_54: -6799692537512714154
+      mattdalley_55: 5187656731573184695
+      mattdalley_56: -717794101693073631
+      mattdalley_57: -8139303063486439278
+      mattdalley_58: -704474252595950222
+      mattdalley_59: -4194537430593258011
+      mattdalley_6: 6611743251229039515
+      mattdalley_60: -464055841431758054
+      mattdalley_61: -6058555544157097073
+      mattdalley_62: 9039670476910618246
+      mattdalley_63: -2145321785312606693
+      mattdalley_64: -1104543992553018185
+      mattdalley_65: -879077741577254222
+      mattdalley_66: -7889523246230156150
+      mattdalley_67: -8941576059913085241
+      mattdalley_68: -8416560413964616208
+      mattdalley_69: -2731887930955107441
+      mattdalley_7: -3606120410390972876
+      mattdalley_70: -6630796610648528880
+      mattdalley_71: 6210773451664687784
+      mattdalley_72: -5106191924221460780
+      mattdalley_73: 9161870949438938842
+      mattdalley_8: 5752971660854018605
+      mattdalley_9: -7551080078184628094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
