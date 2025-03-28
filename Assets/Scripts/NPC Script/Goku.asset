@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c7ab0715c00bcb240b6ca14e2a12f589, type: 3}
+  m_Script: {fileID: 11500000, guid: 765993d830e796c4b8d33b57d839752b, type: 3}
   m_Name: Goku
   m_EditorClassIdentifier: 
   npcName: Goku
-  characterPrompt: Innocent kid, didn't know how to tell which boy or girl
+  characterPrompt: Innocent kid who live on the mountain

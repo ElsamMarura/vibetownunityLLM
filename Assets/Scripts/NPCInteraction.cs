@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 public class NPCInteraction : MonoBehaviour
 {
-    public NPCData npcData; //Scriptable object for NPC
+    //public NPCData npcData; //Scriptable object for NPC
 
     public float detectionRadius = 2f;
     public LayerMask playerLayer;
